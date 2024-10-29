@@ -62,8 +62,9 @@ You can clone this repository and explore each day’s problem and solution. Eac
 - **Solution**: The coded solution, optimized for readability and efficiency.
 - **Explanation.md**: Commentary on the solution and other possible methods.
 
+Git clone 
 ```bash
-git clone https://github.com/AdityaRaj81/30-Days-of-JavaScript-LeetCode-Solution
+https://github.com/AdityaRaj81/30-Days-of-JavaScript-LeetCode-Solution.git
 ```
 
 ## License
