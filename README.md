@@ -63,7 +63,7 @@ Every problem is tackled with a structured approach to ensure clarity and effici
 ---
 
 ## Technologies Used
-- **Programming Language**: JavaScript (or preferred language)
+- **Programming Language**: JavaScript
 - **Platform**: [LeetCode](https://leetcode.com/studyplan/30-days-of-javascript/)
 
 ---
@@ -83,11 +83,13 @@ Every problem is tackled with a structured approach to ensure clarity and effici
 
 Feel free to star ⭐, fork, or even suggest improvements! This is a collaborative journey, and insights are always welcome.
 
-**Ready to dive into 30 days of JavaScript and LeetCode?** Let’s solve, learn, and grow together. Happy coding! 🎉
+**Ready to dive into 30 days of JavaScript in LeetCode?** Let’s solve, learn, and grow together. Happy coding! 🎉
 
 ---
 
-## 📌 Made with 💻 and ⚡ by Aditya Raj
+## 📌 Made with 💻 and ⚡ by Aditya
 
+<!--- 
 Originated by Aditya Raj, this repository is built to inspire continuous learning and mastery of JavaScript and algorithms. Each day’s solution is carefully crafted with passion and dedication to professional coding standards.
+--->
 
