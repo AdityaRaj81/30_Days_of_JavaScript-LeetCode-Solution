@@ -63,7 +63,7 @@ You can clone this repository and explore each day’s problem and solution. Eac
 - **Explanation.md**: Commentary on the solution and other possible methods.
 
 ```bash
-git clone https://github.com/AdityaRaj81/30-Days-of-JavaScript-LeetCode-Solution.git
+git clone https://github.com/AdityaRaj81/30-Days-of-JavaScript-LeetCode-Solution
 ```
 
 ## License
