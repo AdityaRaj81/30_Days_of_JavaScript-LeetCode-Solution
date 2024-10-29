@@ -1,64 +1,64 @@
 # 🌟 30 Days of JavaScript LeetCode Solutions 🌟
 
-Welcome to **30 Days of JavaScript LeetCode Solutions**, where coding meets consistency! 🚀 This repository is more than just a collection of solutions — it’s a journey to sharpen algorithmic skills, embrace JavaScript, and tackle challenging LeetCode problems every day.
+Welcome to **30 Days of JavaScript LeetCode Solutions**! 🚀 This repository isn’t just a collection of solutions—it’s a journey to enhance algorithmic skills, embrace JavaScript, and tackle challenging LeetCode problems daily. Consistency and dedication drive this 30-day challenge, crafted to elevate problem-solving abilities.
 
 ---
 
-## 📚 About the Challenge
-
-In this 30-day adventure, I’ll solve a LeetCode problem daily using **JavaScript**. My goal? To go beyond simply solving the problems and create an easy-to-follow, detailed codebase that demonstrates clean, efficient, and optimized solutions. From fundamental coding challenges to complex algorithmic puzzles, this repository is a learning resource for anyone looking to master LeetCode and JavaScript.
-
-## 🔥 What Makes This Repository Unique?
-
-- **Detailed Explanations**: Each solution comes with a clear explanation of the thought process, code comments, and possible alternative approaches. 
-- **Optimization-Focused**: It’s not just about solving the problem; it’s about doing it well. Each solution is reviewed for time and space efficiency.
-- **Consistency & Commitment**: This isn’t a one-off project. It’s a dedicated 30-day streak to challenge myself, build a habit, and share knowledge with the community.
-
-<!--- 
-
-## 🛠️ Repository Structure
-
-Each day’s problem and solution are organized as follows:
-
-```plaintext
-30-Days-of-JavaScript-LeetCode
-│
-├── Day1/
-│   ├── Problem.md               # Problem statement and requirements
-│   ├── Solution.js              # JavaScript solution with comments
-│   └── Explanation.md           # Approach, complexity, and insights
-│
-├── Day2/
-│   ├── Problem.md
-│   ├── Solution.js
-│   └── Explanation.md
-│
-└── Day30/
-    ├── Problem.md
-    ├── Solution.js
-    └── Explanation.md
-```
---->
+## Table of Contents
+- [About the Challenge](#about-the-challenge)
+- [What Makes This Repository Unique](#what-makes-this-repository-unique)
+- [Badges](#badges)
+- [Approach](#approach)
+- [Goals & Motivation](#goals--motivation)
+- [Technologies Used](#technologies-used)
+- [How to Use This Repository](#how-to-use-this-repository)
+- [Join the Journey](#join-the-journey)
+- [Contributing](#contributing)
+- [License](#license)
 
 ---
 
-## 🧩 Approach
+## About the Challenge
 
-Every problem is tackled with a structured approach to ensure clarity and efficiency:
-1. **Analyze**: Break down the problem and identify requirements.
-2. **Strategize**: Plan an optimal algorithm or method.
-3. **Code**: Implement clean, well-commented JavaScript code.
-4. **Optimize**: Refine for performance.
-5. **Document**: Each solution is explained with complexity analysis and potential optimizations.
+This 30-day adventure involves solving a LeetCode problem daily using **JavaScript**. The aim is to build a codebase that is both easy to follow and demonstrates optimized, clean solutions. From fundamental coding challenges to complex algorithmic puzzles, this repository serves as a learning resource for those eager to master both LeetCode and JavaScript.
+
+## What Makes This Repository Unique?
+
+- **Detailed Explanations**: Each solution is accompanied by clear explanations, thought processes, code comments, and alternative approaches.
+- **Optimization-Focused**: Every solution is reviewed for time and space efficiency, not just correctness.
+- **Consistency & Commitment**: This is a dedicated 30-day journey of coding, knowledge-sharing, and community-building.
 
 ---
 
-## 🚀 Goals & Motivation
+## Badges
+![License](https://img.shields.io/github/license/AdityaRaj81/30-Days-of-JavaScript-LeetCode-Solution)
+![Issues](https://img.shields.io/github/issues/AdityaRaj81/30-Days-of-JavaScript-LeetCode-Solution)
+![Pull Requests](https://img.shields.io/github/issues-pr/AdityaRaj81/30-Days-of-JavaScript-LeetCode-Solution)
+![Forks](https://img.shields.io/github/forks/AdityaRaj81/30-Days-of-JavaScript-LeetCode-Solution)
+![Stars](https://img.shields.io/github/stars/AdityaRaj81/30-Days-of-JavaScript-LeetCode-Solution)
+![Watchers](https://img.shields.io/github/watchers/AdityaRaj81/30-Days-of-JavaScript-LeetCode-Solution)
+![Last Commit](https://img.shields.io/github/last-commit/AdityaRaj81/30-Days-of-JavaScript-LeetCode-Solution)
+![Repo Size](https://img.shields.io/github/repo-size/AdityaRaj81/30-Days-of-JavaScript-LeetCode-Solution)
 
-- **30 problems, 30 days**
-- **Level Up**: Enhance JavaScript coding skills, algorithmic thinking, and problem-solving proficiency.
-- **Consistency**: Build a habit of daily coding practice with accountability.
-- **Share Knowledge**: Contribute to the developer community with well-documented solutions and insights.
+---
+
+## Approach
+
+Each problem is tackled with a structured approach to ensure clarity and efficiency:
+1. **Analyze**: Understand the problem requirements.
+2. **Strategize**: Outline an optimal solution.
+3. **Code**: Implement well-commented, clean JavaScript code.
+4. **Optimize**: Refine the solution for better performance.
+5. **Document**: Explain the solution, complexity, and optimizations.
+
+---
+
+## Goals & Motivation
+
+- **Challenge**: 30 problems, 30 days
+- **Skill Development**: Improve JavaScript coding skills and algorithmic thinking.
+- **Consistency**: Build a habit of daily problem-solving.
+- **Knowledge Sharing**: Contribute to the community with documented solutions and insights.
 
 ---
 
@@ -68,28 +68,44 @@ Every problem is tackled with a structured approach to ensure clarity and effici
 
 ---
 
-## 💻 How to Use This Repository
+## How to Use This Repository
 
-1. **Clone** the repository to explore each day’s solution:
+1. **Clone the Repository** to explore each day’s solution:
    ```bash
-   https://github.com/AdityaRaj81/30-Days-of-JavaScript-LeetCode-Solution.git
+   git clone https://github.com/AdityaRaj81/30-Days-of-JavaScript-LeetCode-Solution.git
    ```
-2. Navigate to each day’s folder to find the **Problem**, **Solution**, and **Explanation**.
-3. Use the code, learn the approach, and try tackling the problems yourself!
+2. Navigate to each day’s folder to find the **Problem**, **Solution**, and **Explanation** files.
+3. Use the code, review the approach, and try solving the problems yourself.
 
 ---
 
-## 🌍 Join the Journey
+## Join the Journey
 
 Feel free to star ⭐, fork, or even suggest improvements! This is a collaborative journey, and insights are always welcome.
 
-**Ready to dive into 30 days of JavaScript in LeetCode?** Let’s solve, learn, and grow together. Happy coding! 🎉
+**Ready to dive into 30 days of JavaScript on LeetCode?** Let’s solve, learn, and grow together. Happy coding! 🎉
 
 ---
 
-## 📌 Made with 💻 and ⚡ by Aditya
+## Contributing
 
+Contributions are welcome! Fork this repository, make your improvements, and submit a pull request. Let’s build a helpful resource for all JavaScript learners.
+
+---
+
+## License
+This project is open-source and available under the Unlicense license. Feel free to use, share, and contribute!
+
+
+
+
+------
+
+<div align="center">
+    Made with 💻 and ⚡ by Aditya Raj
+</div>
 <!--- 
-Originated by Aditya Raj, this repository is built to inspire continuous learning and mastery of JavaScript and algorithms. Each day’s solution is carefully crafted with passion and dedication to professional coding standards.
---->
+**Originated by Aditya Raj**, this repository is designed to inspire consistent learning and mastery of JavaScript and algorithms. Each day’s solution is crafted with attention to detail, clarity, and professional coding standards.
+
+---
 
