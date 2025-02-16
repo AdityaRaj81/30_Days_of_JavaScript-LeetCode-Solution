@@ -96,14 +96,14 @@ Contributions are welcome! Fork this repository, make your improvements, and sub
 ## License
 This project is open-source and available under the Unlicense license. Feel free to use, share, and contribute!
 
+---
 
 
 
-------
 
-<div align="center">
-    Made with 💻 and ⚡ by Aditya Raj
-</div>
+Made with 💻 and ⚡ by [Aditya Raj](https://leetcode.com/u/AdityaRaj81/) 
+
+
 <!--- 
 **Originated by Aditya Raj**, this repository is designed to inspire consistent learning and mastery of JavaScript and algorithms. Each day’s solution is crafted with attention to detail, clarity, and professional coding standards.
 
